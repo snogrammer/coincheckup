@@ -8,7 +8,7 @@ require 'nokogiri'
 
 class CoinCheckup
   BASE_URL = 'https://coincheckup.com'
-  BASE_VERSION = '201802121720'
+  BASE_VERSION = '201802131829'
   DATA_URL = "#{BASE_URL}/data/prod"
 
   class << self
@@ -18,7 +18,11 @@ class CoinCheckup
     def analysis(coin_id)
       url = "#{DATA_URL}/#{data_version}/assets/#{coin_id}.json"
       resp = HTTP.get(url)
-      JSON.parse(resp.body.to_s).deep_symbolize_keys!
+      j = JSON.parse(resp.body.to_s)
+      json = j.deep_transform_keys(&:underscore).deep_symbolize_keys
+      json[:code] = resp.code
+      json[:data_version] = data_version
+      json
     rescue StandardError
       {
         code: 404,
@@ -34,14 +38,16 @@ class CoinCheckup
 
       assets = j.each_with_object([]) do |(k, v), arr|
         v.deep_symbolize_keys!
+        v[:id] = v[:type]
+        v[:type] = k
         v[:count] = v[:coins].count
-        v[:name] = k
         arr << v
       end
 
       {
         code: resp.code,
         count: j.count,
+        data_version: data_version,
         categories: assets
       }
     end

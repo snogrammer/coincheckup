@@ -1,0 +1,1237 @@
+{
+  "market": {
+    "id": "funfair",
+    "name": "FunFair",
+    "symbol": "FUN",
+    "rank": "82",
+    "price_usd": "0.0509841",
+    "price_btc": "0.00000599",
+    "24h_volume_usd": "2425350.0",
+    "market_cap_usd": "229616520.0",
+    "available_supply": "4503688789.0",
+    "total_supply": "17173696076",
+    "max_supply": null,
+    "percent_change_1h": "-1.47",
+    "percent_change_24h": "-4.78",
+    "percent_change_7d": "22.28",
+    "last_updated": "1518536951",
+    "internal_id": "funfair",
+    "cmc_id": "funfair",
+    "price_eth": 0.000060639698562391,
+    "market_percent": 0.00055294497593201,
+    "first_trade_time": 1498539603,
+    "first_price_usd": 0.01741,
+    "avg_3mo_volume": 16474705.006263,
+    "avg_3mo_mkt_cap": 289826913.4709,
+    "growth_all_time": 2.9284376794945,
+    "volume_change_24h": 4140,
+    "mkt_cap_percent_change_24h": 0.00055898301069531,
+    "mkt_cap_against_total_market_growth": 0.054656970090587,
+    "price_change_btc_24h": 7.0000000000001e-9,
+    "price_change_eth_24h": 3.6772932672094e-8,
+    "percent_change_1mo": -133.01774474787,
+    "proof_type": "N/A",
+    "algorithm": "N/A"
+  },
+  "topCoinByAllTimeGrowth": 0,
+  "categories": [
+    "Gambling",
+    "Gaming"
+  ],
+  "tags": [],
+  "research": {
+    "Machine name": "FunFair",
+    "assignee": "",
+    "priority": "",
+    "publishable": "Yes",
+    "current_status": "Ready",
+    "research_update_date": "2017-07-18",
+    "symbol": "FUN",
+    "website_url": "https://funfair.io/",
+    "website2_url": "",
+    "blog_url": "https://funfair.io/blog/",
+    "posting_frequently": "yes",
+    "faq_url": "",
+    "message_board_1_url": "",
+    "message_board_2_url": "",
+    "message_board_3_url": "",
+    "bitcointalk_url": "https://bitcointalk.org/index.php?topic=1968383.0",
+    "chain_exp_1_url": "https://etherscan.io/token/FunFair",
+    "chain_exp_2_url": "https://ethplorer.io/address/0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+    "chain_exp_3_url": "",
+    "logo_filename": "funfare-logo.jpeg",
+    "whitepaper_url": "http://funfair.io/wp-content/uploads/2017/06/FunFair-Commercial-White-Paper.pdf",
+    "contact_email": "info@funfair.io",
+    "contact_form_url": "https://funfair.io/contact/",
+    "phone_num": "",
+    "description_short": "FunFair’s token, FUN, is the currency of this new ecosystem. The FUN token powers every aspect of FunFair’s Ethereum-based casino platform. Players will bet using FUN, developers and affiliates will be rewarded for their participation in FUN, and operators and licencees will pay players out using FUN. FUN will also power the smart contracts that run the platform, including FunFair’s unique new Random Number Generator.",
+    "abstract": "We are FunFair and we’re revolutionizing the gaming industry by harnessing the power of the blockchain in the online gaming market. We know why blockchain gaming has failed to reached a mass audience and this whitepaper will give you an overview of how we are delivering solutions which ensure that the future of online casino gaming is fun, fast and fair.",
+    "facebook_url": "https://www.facebook.com/groups/148397155706069/",
+    "twitter_url": "https://twitter.com/FunFairTech",
+    "youtube_url": "",
+    "slack_url": "",
+    "telegram_url": "https://t.me/FunFairTech/",
+    "icq_handle": "",
+    "google_plus_url": "",
+    "other_social_url": "https://discordapp.com/invite/rwETqSP",
+    "social_freq_facebook": "no",
+    "social_freq_twitter": "yes",
+    "social_freq_youtube": "no",
+    "open_source_bool": "yes",
+    "github_url": "",
+    "incorporated_bool": "No",
+    "incorporation_proof_url": "",
+    "incorporated_officially_bool": "Can't trace back",
+    "incorporatation_number": "",
+    "incorporation_country": "",
+    "incorporation_address": "",
+    "whois_name": "Registration Private",
+    "whois_org": "Domains By Proxy, LLC",
+    "whois_reg_date": "2013-10-10",
+    "members_listed_by_name_bool": "",
+    "team_has_social_profiles_bool": "Yes",
+    "team_has_bios_bool": "No",
+    "team_page_url": "https://funfair.io/team/",
+    "team_dev_size": 8,
+    "team_mkt_sales_size": 3,
+    "team_size_total": 18,
+    "team_age_avg": 0,
+    "team_qa_size": "No",
+    "ceo_name": "Jez San",
+    "ceo_linkedin_url": "https://www.linkedin.com/in/jezsan/",
+    "ceo_linkedin_position": "Yes",
+    "ceo_prior_engagements": "Non-Exec Director of Ninja Theory Ltd.; Non-Exec Director of Codeplay Ltd.; Founder of PKR.com",
+    "ceo_million_dollar_prior_engagement": "yes",
+    "ceo_yrs_business_experience": "35",
+    "ceo_years_c_level_experience": 32,
+    "cto_name": "Jeremy Longley",
+    "cto_linkedin_url": "https://www.linkedin.com/in/jeremy-longley-16827b/",
+    "cto_github_url": "",
+    "cto_github_engagement": "No",
+    "cto_million_dollar_prior_engagement": "yes",
+    "cto_prior_engagements": "Chief Technology Officer of Probable Cause Ltd.; Co-Founder, Chief Technology Officer of PKR.com; Executive Producer of Kuju Entertainment",
+    "cto_years_experience_development": "14",
+    "cto_years_cto_experience": 13,
+    "team_has_advisors_social_profiles_bool": "yes",
+    "team_has_advisors_bios_bool": "no",
+    "multiple_advisors_managed_multimillion_dollar_engagements": "yes",
+    "advisory_board_special_achievements": "Alan Soucy - CEO of Sparkpr; Donna Burke - held a variety of marketing and public relations positions at Netscape, TSI Communications, News Corporation and the U.S. Olympic Committee; Eric Doyle -  15 years of success developing and executing integrated PR and content marketing campaigns for startup and Fortune 500 brands",
+    "company_publishes_financial_statements": "no",
+    "company_publishes_financial_statements_source": "",
+    "company_burn_rate": "no",
+    "company_burn_rate_source": "",
+    "company_gains_predictions": "yes",
+    "company_gains_predictions_source": "http://funfair.io/wp-content/uploads/2017/06/FunFair-Commercial-White-Paper.pdf",
+    "company_explains_advantage_over_competition": "yes",
+    "company_explains_advantage_over_competition_source": "http://funfair.io/wp-content/uploads/2017/06/FunFair-Commercial-White-Paper.pdf",
+    "company_explains_strategic_partnerships": "",
+    "company_presents_sales_mkt_plan": "yes",
+    "company_presents_sales_mkt_plan_source": "http://funfair.io/wp-content/uploads/2017/06/FunFair-Commercial-White-Paper.pdf",
+    "community_size": 46390,
+    "product_status": "Demo only",
+    "product_release_date": "2017-02-01",
+    "product_roadmap_url": "https://funfair.io/roadmap/",
+    "roadmap_updated": "",
+    "token_supply": 10999873621,
+    "tokens_distributed": "3,654,562,524",
+    "token_emission_rate": "2nd round planned might occure",
+    "blockchain": "Ethereum",
+    "consensus_method": "Ethereum consensus (currently proof of work, will be proof of stake later on)",
+    "block_processing_speed": "1.2",
+    "transactions_per_second": 0,
+    "ico_proceeds_founders_team": 13,
+    "ico_proceeds_mkt_sales": "",
+    "ico_proceeds_development": "64.25%",
+    "ico_proceeds_adm_legal": "1.07%",
+    "ico_proceeds_other": "",
+    "ico_sale_period_start": "2017-06-22 00:00:00",
+    "ico_sale_period_end": "2017-07-07 00:00:00",
+    "ico_initial_price": "0.01",
+    "ico_accepted_currencies": "BTC,ETH,ZEC,USD,EUR,GNT,REP,PLU,MKR,GNO",
+    "ico_investment_round": "finished",
+    "ico_token_distribution_date": "2017-06-22",
+    "ico_token_trading_start_date": "2017-06-27",
+    "ico_min_investment_goal": "",
+    "ico_max_investment_cap": "20,000,000 USD",
+    "ico_bonus": "",
+    "ico_jurisdiction": "",
+    "ico_legal_advisers": "",
+    "ico_legal_form": "",
+    "ico_security": "",
+    "alexa_url": "http://www.alexa.com/siteinfo/https://funfair.io/",
+    "alexa_url_2": "",
+    "reddit_url": "https://www.reddit.com/r/FunfairTech/",
+    "governance": "Centralized > Hierarchical",
+    "video_what_is_it": "https://youtu.be/Gb3RrTy40yI",
+    "goal_clarity": "1",
+    "categories": {
+      "0": "Gambling",
+      "2": "Gaming"
+    },
+    "category_1": "",
+    "category_2": "",
+    "category_3": "",
+    "category_4": "",
+    "coin_goals": "decentralised gaming platform, whitelabel platform, decentralized casino, 10x more efficient gas transaction costs, provably fair, lower cost than traditional casinos, instant transactions, whitelabel your own casino",
+    "additional_differentiation": "",
+    "system_status": "",
+    "market_cap_usd": "101098544",
+    "internal_signature": "0737fe8765d0",
+    "num_cols_req_basic_update": "48",
+    "num_cols_req_expert_update": "25",
+    "__idx": 53,
+    "internal_id": "funfair",
+    "cmc_id": "funfair",
+    "social_freq_facebook_latest_time": null,
+    "social_freq_twitter_latest_time": "Mon Feb 12 16:00:01 +0000 2018"
+  },
+  "crypto_compare": {
+    "symbol": "FUN",
+    "id": "178978"
+  },
+  "reddit_url": "https://www.reddit.com/r/FunfairTech/",
+  "twitter_url": "https://twitter.com/FunFairTech",
+  "exchanges": [
+    "BitTrex",
+    "Bitfinex",
+    "HitBTC",
+    "CCEX",
+    "LiveCoin",
+    "Novaexchange",
+    "Binance",
+    "OKEX",
+    "EtherDelta",
+    "Gateio"
+  ],
+  "investment": {
+    "daily_price_7d": [
+      0.045711525,
+      0.0511204,
+      0.051294225,
+      0.055832475,
+      0.067183325,
+      0.06117285,
+      0.060656975,
+      0.060420425,
+      0.062032025,
+      0.062442175,
+      0.0646352,
+      0.062984875,
+      0.06234035,
+      0.06199055,
+      0.06053915,
+      0.060536575,
+      0.063408475,
+      0.0643563,
+      0.066211325,
+      0.061053425,
+      0.063082075,
+      0.0638873,
+      0.06162915,
+      0.05957765,
+      0.05787315,
+      0.056797925,
+      0.05443475,
+      0.0521575,
+      0.0529259,
+      0.0547351,
+      0.054257125,
+      0.05415815,
+      0.0530652,
+      0.053442375,
+      0.053794775,
+      0.05387625,
+      0.0541556,
+      0.054513925,
+      0.052702725,
+      0.052333925,
+      0.051391025,
+      0.051499466666667
+    ],
+    "historicals": {
+      "200d": 0.0111947,
+      "90d": 0.0161852,
+      "45d": 0.0851631,
+      "30d": 0.129969,
+      "14d": 0.0785755
+    },
+    "volatility_30d": 116.98018019453,
+    "volatility_1w": 56.506795434535,
+    "cmgr": 50.201756630918,
+    "coin_age": 8,
+    "winning_months_trailing_12m": 33,
+    "losing_months_trailing_12m": 67,
+    "max_growth_1mo_trailing_12m": 167.94611458266,
+    "max_drawdown_1mo_trailing_12m": -37.539919586445,
+    "max_growth_1d_trailing_12m": 111.31792129348,
+    "max_drawdown_1d_trailing_12m": -36.817010210127,
+    "first_price_usd": 0.01741,
+    "growth_all_time": 192.84376794945,
+    "returns": {
+      "weekly": {
+        "2016": [
+          {
+            "s": 1451606400,
+            "e": 1452211199,
+            "v": false
+          },
+          {
+            "s": 1452211200,
+            "e": 1452815999,
+            "v": false
+          },
+          {
+            "s": 1452816000,
+            "e": 1453420799,
+            "v": false
+          },
+          {
+            "s": 1453420800,
+            "e": 1454025599,
+            "v": false
+          },
+          {
+            "s": 1454025600,
+            "e": 1454630399,
+            "v": false
+          },
+          {
+            "s": 1454630400,
+            "e": 1455235199,
+            "v": false
+          },
+          {
+            "s": 1455235200,
+            "e": 1455839999,
+            "v": false
+          },
+          {
+            "s": 1455840000,
+            "e": 1456444799,
+            "v": false
+          },
+          {
+            "s": 1456444800,
+            "e": 1457049599,
+            "v": false
+          },
+          {
+            "s": 1457049600,
+            "e": 1457654399,
+            "v": false
+          },
+          {
+            "s": 1457654400,
+            "e": 1458259199,
+            "v": false
+          },
+          {
+            "s": 1458259200,
+            "e": 1458863999,
+            "v": false
+          },
+          {
+            "s": 1458864000,
+            "e": 1459468799,
+            "v": false
+          },
+          {
+            "s": 1459468800,
+            "e": 1460073599,
+            "v": false
+          },
+          {
+            "s": 1460073600,
+            "e": 1460678399,
+            "v": false
+          },
+          {
+            "s": 1460678400,
+            "e": 1461283199,
+            "v": false
+          },
+          {
+            "s": 1461283200,
+            "e": 1461887999,
+            "v": false
+          },
+          {
+            "s": 1461888000,
+            "e": 1462492799,
+            "v": false
+          },
+          {
+            "s": 1462492800,
+            "e": 1463097599,
+            "v": false
+          },
+          {
+            "s": 1463097600,
+            "e": 1463702399,
+            "v": false
+          },
+          {
+            "s": 1463702400,
+            "e": 1464307199,
+            "v": false
+          },
+          {
+            "s": 1464307200,
+            "e": 1464911999,
+            "v": false
+          },
+          {
+            "s": 1464912000,
+            "e": 1465516799,
+            "v": false
+          },
+          {
+            "s": 1465516800,
+            "e": 1466121599,
+            "v": false
+          },
+          {
+            "s": 1466121600,
+            "e": 1466726399,
+            "v": false
+          },
+          {
+            "s": 1466726400,
+            "e": 1467331199,
+            "v": false
+          },
+          {
+            "s": 1467331200,
+            "e": 1467935999,
+            "v": false
+          },
+          {
+            "s": 1467936000,
+            "e": 1468540799,
+            "v": false
+          },
+          {
+            "s": 1468540800,
+            "e": 1469145599,
+            "v": false
+          },
+          {
+            "s": 1469145600,
+            "e": 1469750399,
+            "v": false
+          },
+          {
+            "s": 1469750400,
+            "e": 1470355199,
+            "v": false
+          },
+          {
+            "s": 1470355200,
+            "e": 1470959999,
+            "v": false
+          },
+          {
+            "s": 1470960000,
+            "e": 1471564799,
+            "v": false
+          },
+          {
+            "s": 1471564800,
+            "e": 1472169599,
+            "v": false
+          },
+          {
+            "s": 1472169600,
+            "e": 1472774399,
+            "v": false
+          },
+          {
+            "s": 1472774400,
+            "e": 1473379199,
+            "v": false
+          },
+          {
+            "s": 1473379200,
+            "e": 1473983999,
+            "v": false
+          },
+          {
+            "s": 1473984000,
+            "e": 1474588799,
+            "v": false
+          },
+          {
+            "s": 1474588800,
+            "e": 1475193599,
+            "v": false
+          },
+          {
+            "s": 1475193600,
+            "e": 1475798399,
+            "v": false
+          },
+          {
+            "s": 1475798400,
+            "e": 1476403199,
+            "v": false
+          },
+          {
+            "s": 1476403200,
+            "e": 1477007999,
+            "v": false
+          },
+          {
+            "s": 1477008000,
+            "e": 1477612799,
+            "v": false
+          },
+          {
+            "s": 1477612800,
+            "e": 1478217599,
+            "v": false
+          },
+          {
+            "s": 1478217600,
+            "e": 1478822399,
+            "v": false
+          },
+          {
+            "s": 1478822400,
+            "e": 1479427199,
+            "v": false
+          },
+          {
+            "s": 1479427200,
+            "e": 1480031999,
+            "v": false
+          },
+          {
+            "s": 1480032000,
+            "e": 1480636799,
+            "v": false
+          },
+          {
+            "s": 1480636800,
+            "e": 1481241599,
+            "v": false
+          },
+          {
+            "s": 1481241600,
+            "e": 1481846399,
+            "v": false
+          },
+          {
+            "s": 1481846400,
+            "e": 1482451199,
+            "v": false
+          },
+          {
+            "s": 1482451200,
+            "e": 1483055999,
+            "v": false
+          }
+        ],
+        "2017": [
+          {
+            "s": 1483660800,
+            "e": 1484265599,
+            "v": false
+          },
+          {
+            "s": 1484265600,
+            "e": 1484870399,
+            "v": false
+          },
+          {
+            "s": 1484870400,
+            "e": 1485475199,
+            "v": false
+          },
+          {
+            "s": 1485475200,
+            "e": 1486079999,
+            "v": false
+          },
+          {
+            "s": 1486080000,
+            "e": 1486684799,
+            "v": false
+          },
+          {
+            "s": 1486684800,
+            "e": 1487289599,
+            "v": false
+          },
+          {
+            "s": 1487289600,
+            "e": 1487894399,
+            "v": false
+          },
+          {
+            "s": 1487894400,
+            "e": 1488499199,
+            "v": false
+          },
+          {
+            "s": 1488499200,
+            "e": 1489103999,
+            "v": false
+          },
+          {
+            "s": 1489104000,
+            "e": 1489708799,
+            "v": false
+          },
+          {
+            "s": 1489708800,
+            "e": 1490313599,
+            "v": false
+          },
+          {
+            "s": 1490313600,
+            "e": 1490918399,
+            "v": false
+          },
+          {
+            "s": 1490918400,
+            "e": 1491523199,
+            "v": false
+          },
+          {
+            "s": 1491523200,
+            "e": 1492127999,
+            "v": false
+          },
+          {
+            "s": 1492128000,
+            "e": 1492732799,
+            "v": false
+          },
+          {
+            "s": 1492732800,
+            "e": 1493337599,
+            "v": false
+          },
+          {
+            "s": 1493337600,
+            "e": 1493942399,
+            "v": false
+          },
+          {
+            "s": 1493942400,
+            "e": 1494547199,
+            "v": false
+          },
+          {
+            "s": 1494547200,
+            "e": 1495151999,
+            "v": false
+          },
+          {
+            "s": 1495152000,
+            "e": 1495756799,
+            "v": false
+          },
+          {
+            "s": 1495756800,
+            "e": 1496361599,
+            "v": false
+          },
+          {
+            "s": 1496361600,
+            "e": 1496966399,
+            "v": false
+          },
+          {
+            "s": 1496966400,
+            "e": 1497571199,
+            "v": false
+          },
+          {
+            "s": 1497571200,
+            "e": 1498175999,
+            "v": false
+          },
+          {
+            "s": 1498176000,
+            "e": 1498780799,
+            "v": false
+          },
+          {
+            "s": 1498780800,
+            "e": 1499385599,
+            "v": -42.528447222995
+          },
+          {
+            "s": 1499385600,
+            "e": 1499990399,
+            "v": 7.8321916109974
+          },
+          {
+            "s": 1499990400,
+            "e": 1500595199,
+            "v": -2.4327576169222
+          },
+          {
+            "s": 1500595200,
+            "e": 1501199999,
+            "v": -2.1355104369062
+          },
+          {
+            "s": 1501200000,
+            "e": 1501804799,
+            "v": 17.463365425457
+          },
+          {
+            "s": 1501804800,
+            "e": 1502409599,
+            "v": 99.556372916979
+          },
+          {
+            "s": 1502409600,
+            "e": 1503014399,
+            "v": -1.2916203964974
+          },
+          {
+            "s": 1503014400,
+            "e": 1503619199,
+            "v": -4.2033565489522
+          },
+          {
+            "s": 1503619200,
+            "e": 1504223999,
+            "v": 24.37015370723
+          },
+          {
+            "s": 1504224000,
+            "e": 1504828799,
+            "v": -25.238615840555
+          },
+          {
+            "s": 1504828800,
+            "e": 1505433599,
+            "v": -38.893145216739
+          },
+          {
+            "s": 1505433600,
+            "e": 1506038399,
+            "v": -0.25461949066475
+          },
+          {
+            "s": 1506038400,
+            "e": 1506643199,
+            "v": 34.644366477952
+          },
+          {
+            "s": 1506643200,
+            "e": 1507247999,
+            "v": -11.925888449988
+          },
+          {
+            "s": 1507248000,
+            "e": 1507852799,
+            "v": -0.73256877079436
+          },
+          {
+            "s": 1507852800,
+            "e": 1508457599,
+            "v": -11.293154371226
+          },
+          {
+            "s": 1508457600,
+            "e": 1509062399,
+            "v": -9.7826305321735
+          },
+          {
+            "s": 1509062400,
+            "e": 1509667199,
+            "v": -13.95710438574
+          },
+          {
+            "s": 1509667200,
+            "e": 1510271999,
+            "v": 3.3132274747768
+          },
+          {
+            "s": 1510272000,
+            "e": 1510876799,
+            "v": 12.179832704478
+          },
+          {
+            "s": 1510876800,
+            "e": 1511481599,
+            "v": 45.438985856154
+          },
+          {
+            "s": 1511481600,
+            "e": 1512086399,
+            "v": 10.392058413044
+          },
+          {
+            "s": 1512086400,
+            "e": 1512691199,
+            "v": 10.674536444953
+          },
+          {
+            "s": 1512691200,
+            "e": 1513295999,
+            "v": 27.108412770225
+          },
+          {
+            "s": 1513296000,
+            "e": 1513900799,
+            "v": 48.733449541965
+          },
+          {
+            "s": 1513900800,
+            "e": 1514505599,
+            "v": 16.343765948406
+          }
+        ],
+        "2018": [
+          {
+            "s": 1515110400,
+            "e": 1515715199,
+            "v": -18.258946647149
+          },
+          {
+            "s": 1515715200,
+            "e": 1516319999,
+            "v": -21.665775099949
+          },
+          {
+            "s": 1516320000,
+            "e": 1516924799,
+            "v": -19.997382220368
+          },
+          {
+            "s": 1516924800,
+            "e": 1517529599,
+            "v": -28.283016673495
+          },
+          {
+            "s": 1517529600,
+            "e": 1518134399,
+            "v": 15.833587490981
+          },
+          {
+            "s": 1518134400,
+            "e": 1518739199,
+            "v": -16.818099500263
+          }
+        ]
+      },
+      "monthly": {
+        "2016": [
+          {
+            "s": 1451606400,
+            "e": 1454284799,
+            "v": false
+          },
+          {
+            "s": 1454284800,
+            "e": 1456790399,
+            "v": false
+          },
+          {
+            "s": 1456790400,
+            "e": 1459468799,
+            "v": false
+          },
+          {
+            "s": 1459468800,
+            "e": 1462060799,
+            "v": false
+          },
+          {
+            "s": 1462060800,
+            "e": 1464739199,
+            "v": false
+          },
+          {
+            "s": 1464739200,
+            "e": 1467331199,
+            "v": false
+          },
+          {
+            "s": 1467331200,
+            "e": 1470009599,
+            "v": false
+          },
+          {
+            "s": 1470009600,
+            "e": 1472687999,
+            "v": false
+          },
+          {
+            "s": 1472688000,
+            "e": 1475279999,
+            "v": false
+          },
+          {
+            "s": 1475280000,
+            "e": 1477958399,
+            "v": false
+          },
+          {
+            "s": 1477958400,
+            "e": 1480550399,
+            "v": false
+          },
+          {
+            "s": 1480550400,
+            "e": 1483228799,
+            "v": false
+          }
+        ],
+        "2017": [
+          {
+            "s": 1483228800,
+            "e": 1485907199,
+            "v": false
+          },
+          {
+            "s": 1485907200,
+            "e": 1488326399,
+            "v": false
+          },
+          {
+            "s": 1488326400,
+            "e": 1491004799,
+            "v": false
+          },
+          {
+            "s": 1491004800,
+            "e": 1493596799,
+            "v": false
+          },
+          {
+            "s": 1493596800,
+            "e": 1496275199,
+            "v": false
+          },
+          {
+            "s": 1496275200,
+            "e": 1498867199,
+            "v": false
+          },
+          {
+            "s": 1498867200,
+            "e": 1501545599,
+            "v": -63.118084301704
+          },
+          {
+            "s": 1501545600,
+            "e": 1504223999,
+            "v": 153.92538796973
+          },
+          {
+            "s": 1504224000,
+            "e": 1506815999,
+            "v": -14.899757230824
+          },
+          {
+            "s": 1506816000,
+            "e": 1509494399,
+            "v": -44.898944319684
+          },
+          {
+            "s": 1509494400,
+            "e": 1512086399,
+            "v": 61.173269387273
+          },
+          {
+            "s": 1512086400,
+            "e": 1514764799,
+            "v": 216.27448275348
+          }
+        ],
+        "2018": [
+          {
+            "s": 1514764800,
+            "e": 1517443199,
+            "v": -0.85201480550319
+          },
+          {
+            "s": 1517443200,
+            "e": 1519862399,
+            "v": -25.511827589381
+          }
+        ]
+      },
+      "yearly": {
+        "2016": [
+          {
+            "s": 1451606400,
+            "e": 1483228799,
+            "v": false
+          }
+        ],
+        "2017": [
+          {
+            "s": 1483228800,
+            "e": 1514764799,
+            "v": false
+          }
+        ],
+        "2018": [
+          {
+            "s": 1514764800,
+            "e": 1546300799,
+            "v": -40.656819610308
+          }
+        ]
+      }
+    },
+    "average_monthly_roi_3y": 44.603693906258,
+    "average_monthly_roi_1y": 44.603693906258,
+    "average_daily_roi_1y": 1.9615840562535,
+    "average_daily_roi_3m": 2.8677672684214,
+    "average_daily_roi_1m": -0.89368844816086,
+    "average_daily_roi_1w": 9.6549650792809,
+    "average_price_usd_2y": 0.039566394736842,
+    "average_price_usd_1y": 0.039566394736842,
+    "average_price_usd_6m": 0.045527886813187,
+    "average_price_usd_3m": 0.067168438461538,
+    "average_price_usd_1m": 0.084649136666667,
+    "average_price_usd_all_time": 0.039566394736842,
+    "average_price_btc_2y": 0.0000054426370614035,
+    "average_price_btc_1y": 0.0000054426370614035,
+    "average_price_btc_6m": 0.0000053264148901099,
+    "average_price_btc_3m": 0.0000054964295604396,
+    "average_price_btc_1m": 0.0000080680113333333,
+    "average_price_btc_all_time": 0.0000054426370614035,
+    "average_mktcap_2y": 163431410.19298,
+    "average_mktcap_1y": 163431410.19298,
+    "average_mktcap_6m": 191567498.94505,
+    "average_mktcap_3m": 289747030.46154,
+    "average_mktcap_1m": 373837212.1,
+    "average_mktcap_all_time": 163431410.19298,
+    "average_volume_2y": 7315466.9078947,
+    "average_volume_1y": 7315466.9078947,
+    "average_volume_6m": 8910710.978022,
+    "average_volume_3m": 16550738.120879,
+    "average_volume_1m": 14426399.666667,
+    "average_volume_all_time": 7315466.9078947,
+    "total_volume_1m": 432590420,
+    "average_mktcap_percent_2y": 0.056878639559893,
+    "average_mktcap_percent_1y": 0.056878639559893,
+    "average_mktcap_percent_6m": 0.057543574802909,
+    "average_mktcap_percent_3m": 0.054387872771105,
+    "average_mktcap_percent_1m": 0.072556086448034,
+    "average_mktcap_percent_all_time": 0.056878639559893
+  },
+  "predictions": {
+    "worldMoney": {
+      "M0": {
+        "current": 6.200564226209,
+        "percent": {
+          "1": 0.0082224936538025,
+          "2": 0.016444987307605,
+          "4": 0.03288997461521,
+          "8": 0.06577994923042,
+          "16": 0.13155989846084,
+          "32": 0.26311979692168
+        }
+      },
+      "M1": {
+        "current": 1.1033352891655,
+        "percent": {
+          "1": 0.046209072165688,
+          "2": 0.092418144331375,
+          "4": 0.18483628866275,
+          "8": 0.3696725773255,
+          "16": 0.739345154651,
+          "32": 1.478690309302
+        }
+      },
+      "M2": {
+        "current": 0.4362608972684,
+        "percent": {
+          "1": 0.11686607788878,
+          "2": 0.23373215577757,
+          "4": 0.46746431155514,
+          "8": 0.93492862311028,
+          "16": 1.8698572462206,
+          "32": 3.7397144924411
+        }
+      }
+    },
+    "growth": {
+      "avg_yearly_growth_all_time": 173.38502498534,
+      "start": {
+        "dt": 1498539603,
+        "price": 0.01741
+      },
+      "end": {
+        "dt": 1518536951,
+        "price": 0.0509841
+      }
+    },
+    "growth_btc_src": {
+      "avg_yearly_growth_all_time": 310.59720798647,
+      "start": {
+        "dt": 1367174841,
+        "price": 135.3
+      },
+      "end": {
+        "dt": 1518536968,
+        "price": 8567.95
+      }
+    },
+    "growth_btc": {
+      "2019": {
+        "1": 0.05256765191117,
+        "2": 0.054151203822341,
+        "5": 0.058901859555851,
+        "10": 0.066819619111703,
+        "20": 0.082655138223406,
+        "50": 0.13016169555851,
+        "100": 0.20933929111703
+      },
+      "2020": {
+        "1": 0.054200388502572,
+        "2": 0.057515046365606,
+        "5": 0.068049236117481,
+        "10": 0.087573606246517,
+        "20": 0.13400004853926,
+        "50": 0.33230099169481,
+        "100": 0.85954128454519
+      },
+      "2021": {
+        "1": 0.05588383743664,
+        "2": 0.06108784892928,
+        "5": 0.078617187489332,
+        "10": 0.11477372383999,
+        "20": 0.21724013043195,
+        "50": 0.84835979285253,
+        "100": 3.5292525158336
+      },
+      "2022": {
+        "1": 0.057619573824579,
+        "2": 0.064882591993146,
+        "5": 0.090826326956299,
+        "10": 0.1504221220149,
+        "20": 0.3521884863815,
+        "50": 2.1658507079924,
+        "100": 14.491012292805
+      }
+    },
+    "growth_moore": {
+      "2019": 0.1019682,
+      "2020": 0.2039364,
+      "2021": 0.4078728,
+      "2022": 0.8157456,
+      "2023": 1.6314912,
+      "2024": 3.2629824
+    },
+    "growth_others": {
+      "2019": {
+        "internetYoY": 0.0658204731,
+        "googleYoY": 0.07957598328,
+        "facebookYoY": 0.11309802903,
+        "mobileYoY": 0.06526474641
+      },
+      "2020": {
+        "internetYoY": 0.0849742307721,
+        "googleYoY": 0.12420219470342,
+        "facebookYoY": 0.25088535779725,
+        "mobileYoY": 0.083545401879441
+      },
+      "2021": {
+        "internetYoY": 0.10970173192678,
+        "googleYoY": 0.1938547854931,
+        "facebookYoY": 0.55653898920164,
+        "mobileYoY": 0.10694646894587
+      },
+      "2022": {
+        "internetYoY": 0.14162493591747,
+        "googleYoY": 0.30256854919764,
+        "facebookYoY": 1.234570439746,
+        "mobileYoY": 0.13690217489761
+      },
+      "2023": {
+        "internetYoY": 0.18283779226946,
+        "googleYoY": 0.47224899158767,
+        "facebookYoY": 2.7386476064885,
+        "mobileYoY": 0.17524847408643
+      },
+      "2024": {
+        "internetYoY": 0.23604358981987,
+        "googleYoY": 0.73708622607004,
+        "facebookYoY": 6.0751419854735,
+        "mobileYoY": 0.22433557167804
+      }
+    }
+  },
+  "total_score": 56.75,
+  "scores_detailed": {
+    "A": {
+      "A1": 70,
+      "A2": 30
+    },
+    "B": {
+      "B1": 50,
+      "B2": 0,
+      "B3": 20,
+      "B4": 0,
+      "B5": 0
+    },
+    "C": {
+      "C1": 10,
+      "C2": 10,
+      "C3": 15,
+      "C4": 15,
+      "C5": 0,
+      "C6": 6,
+      "C7": 0,
+      "C8": 16
+    },
+    "D": {
+      "D1": 0,
+      "D2": 25,
+      "D3": 50
+    },
+    "E": {
+      "E1": 40,
+      "E2": 0
+    },
+    "F": {
+      "F1": 20,
+      "F2": 10,
+      "F3": 0,
+      "F4": 5,
+      "F5": 0,
+      "F6": 8,
+      "F7": 10
+    },
+    "G": {
+      "G1": 0,
+      "G2": 0,
+      "G3": 14,
+      "G4": 14,
+      "G5": 10,
+      "G6": 5
+    },
+    "H": {
+      "H1": 0,
+      "H2": 0,
+      "H3": 10,
+      "H4": 0,
+      "H5": 30,
+      "H6": 20
+    },
+    "J": []
+  },
+  "scores": {
+    "A": 100,
+    "B": 70,
+    "C": 72,
+    "D": 75,
+    "E": 40,
+    "F": 53,
+    "G": 43,
+    "H": 60,
+    "J": null
+  }
+}
