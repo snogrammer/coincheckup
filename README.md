@@ -1,10 +1,10 @@
 [![Gem Version](https://badge.fury.io/rb/coincheckup.svg)](https://badge.fury.io/rb/coincheckup)
 
-# IcoRating
+# CoinCheckup
 
 ### WIP: Not Gem ready due to SSL error workaround and delayed responses
 
-Ruby Gem that parses cryptocurrency ICOs information, ratings, and expert information from IcoRating.com.
+Ruby Gem that parses cryptocurrency ICOs information, ratings, and expert information from coincheckup.com.
 
 ## Installation
 
@@ -42,4 +42,4 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 ## Code of Conduct
 
-Everyone interacting in the IcoRating project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/kurt-smith/coincheckup/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the CoinCheckup project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/kurt-smith/coincheckup/blob/master/CODE_OF_CONDUCT.md).

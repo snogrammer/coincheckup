@@ -6,12 +6,12 @@ require 'coincheckup/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'coincheckup'
-  spec.version       = IcoRating::VERSION
+  spec.version       = CoinCheckup::VERSION
   spec.authors       = ['Kurt Smith']
   spec.email         = ['zippydev@protonmail.com']
 
-  spec.summary       = 'IcoRating ICO expert ratings and information'
-  spec.description   = 'IcoRating.com data for the latest cyrptocurrency ICO token ratings and information'
+  spec.summary       = 'CoinCheckup ICO expert ratings and information'
+  spec.description   = 'coincheckup.com data for the latest cyrptocurrency ICO token ratings and information'
   spec.homepage      = 'https://github.com/kurt-smith/coincheckup'
   spec.license       = 'MIT'
 
